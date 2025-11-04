@@ -6,6 +6,7 @@
 
 -->
 solutuion to https://www.freecodecamp.org/learn/full-stack-developer/lab-celestial-bodies-database/lab-celestial-bodies-database
+</br>
 Bunch of Bash scripts to learn Bash from scratch
 1. Questionnaire [Read input]
 2. Bingo [Eval arithmatic and usage of square brackets]
